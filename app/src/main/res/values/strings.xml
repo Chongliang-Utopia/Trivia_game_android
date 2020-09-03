@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuizForFun</string>
+    <string name="title">QuizIt</string>
+    <string name="true_title">true</string>
+    <string name="false_title">false</string>
+    <string name="previous_button">previous_button</string>
+    <string name="next_button">next_button</string>
+    <string name="counter_questions">0 out of 100</string>
+    <string name="correct_answer">correct_answer</string>
+    <string name="wrong_answer">wrong_answer</string>
+    <string name="share">share</string>
+</resources>
